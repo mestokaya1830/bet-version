@@ -26,7 +26,7 @@
     "mysql": "^2.16.0",
     "mysql-connection-pool-manager": "^1.5.7",
     "node-cron": "^2.0.3",
-    "nuxt": "^2.11.0",
+    "nuxt": "^2.15.0",
     "promise-mysql2": "^1.0.0",
     "socket.io": "^2.2.0",
     "socket.io-client": "^2.2.0",

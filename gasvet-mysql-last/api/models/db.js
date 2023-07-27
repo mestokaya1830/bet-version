@@ -5,7 +5,6 @@ var pool = mysql.createPool({
   user: 'root',
   password: '',
   // port: 3308,
-  password: '123',
   database: 'gasvet',
   charset : 'utf8mb4',
   insecureAuth : true
