@@ -1,0 +1,278 @@
+[
+  {
+    "name": "home",
+    "path": "/home",
+    "component": "/media/mesto/a7d4deb7-251e-46e3-b60b-31bc36f28a6b/my-works/bet-version/bet-backup/pages/home.vue",
+    "chunkName": "pages/home",
+    "children": [
+      {
+        "path": "account",
+        "component": "/media/mesto/a7d4deb7-251e-46e3-b60b-31bc36f28a6b/my-works/bet-version/bet-backup/pages/home/account.vue",
+        "chunkName": "pages/home/account",
+        "children": [
+          {
+            "name": "home-account",
+            "path": "",
+            "component": "/media/mesto/a7d4deb7-251e-46e3-b60b-31bc36f28a6b/my-works/bet-version/bet-backup/pages/home/account/index.vue",
+            "chunkName": "pages/home/account/index",
+            "_name": "_27f205da"
+          },
+          {
+            "name": "home-account-basketinplaymarkets",
+            "path": "basketinplaymarkets",
+            "component": "/media/mesto/a7d4deb7-251e-46e3-b60b-31bc36f28a6b/my-works/bet-version/bet-backup/pages/home/account/basketinplaymarkets.vue",
+            "chunkName": "pages/home/account/basketinplaymarkets",
+            "_name": "_a2b1658e"
+          },
+          {
+            "name": "home-account-basketliverate",
+            "path": "basketliverate",
+            "component": "/media/mesto/a7d4deb7-251e-46e3-b60b-31bc36f28a6b/my-works/bet-version/bet-backup/pages/home/account/basketliverate.vue",
+            "chunkName": "pages/home/account/basketliverate",
+            "_name": "_6e882ebe"
+          },
+          {
+            "name": "home-account-basketmarkets",
+            "path": "basketmarkets",
+            "component": "/media/mesto/a7d4deb7-251e-46e3-b60b-31bc36f28a6b/my-works/bet-version/bet-backup/pages/home/account/basketmarkets.vue",
+            "chunkName": "pages/home/account/basketmarkets",
+            "_name": "_7ca8ba1c"
+          },
+          {
+            "name": "home-account-basketrate",
+            "path": "basketrate",
+            "component": "/media/mesto/a7d4deb7-251e-46e3-b60b-31bc36f28a6b/my-works/bet-version/bet-backup/pages/home/account/basketrate.vue",
+            "chunkName": "pages/home/account/basketrate",
+            "_name": "_1f6eeb96"
+          },
+          {
+            "name": "home-account-basketratelimit",
+            "path": "basketratelimit",
+            "component": "/media/mesto/a7d4deb7-251e-46e3-b60b-31bc36f28a6b/my-works/bet-version/bet-backup/pages/home/account/basketratelimit.vue",
+            "chunkName": "pages/home/account/basketratelimit",
+            "_name": "_47a5e954"
+          },
+          {
+            "name": "home-account-boss",
+            "path": "boss",
+            "component": "/media/mesto/a7d4deb7-251e-46e3-b60b-31bc36f28a6b/my-works/bet-version/bet-backup/pages/home/account/boss.vue",
+            "chunkName": "pages/home/account/boss",
+            "_name": "_6c29c888"
+          },
+          {
+            "name": "home-account-branch",
+            "path": "branch",
+            "component": "/media/mesto/a7d4deb7-251e-46e3-b60b-31bc36f28a6b/my-works/bet-version/bet-backup/pages/home/account/branch.vue",
+            "chunkName": "pages/home/account/branch",
+            "_name": "_88d09c9e"
+          },
+          {
+            "name": "home-account-codelist",
+            "path": "codelist",
+            "component": "/media/mesto/a7d4deb7-251e-46e3-b60b-31bc36f28a6b/my-works/bet-version/bet-backup/pages/home/account/codelist.vue",
+            "chunkName": "pages/home/account/codelist",
+            "_name": "_753d0dda"
+          },
+          {
+            "name": "home-account-creditlog",
+            "path": "creditlog",
+            "component": "/media/mesto/a7d4deb7-251e-46e3-b60b-31bc36f28a6b/my-works/bet-version/bet-backup/pages/home/account/creditlog.vue",
+            "chunkName": "pages/home/account/creditlog",
+            "_name": "_2c232cec"
+          },
+          {
+            "name": "home-account-detailsaccount",
+            "path": "detailsaccount",
+            "component": "/media/mesto/a7d4deb7-251e-46e3-b60b-31bc36f28a6b/my-works/bet-version/bet-backup/pages/home/account/detailsaccount.vue",
+            "chunkName": "pages/home/account/detailsaccount",
+            "_name": "_2c8ee23a"
+          },
+          {
+            "name": "home-account-detailscomission",
+            "path": "detailscomission",
+            "component": "/media/mesto/a7d4deb7-251e-46e3-b60b-31bc36f28a6b/my-works/bet-version/bet-backup/pages/home/account/detailscomission.vue",
+            "chunkName": "pages/home/account/detailscomission",
+            "_name": "_c77bbe26"
+          },
+          {
+            "name": "home-account-gamelog",
+            "path": "gamelog",
+            "component": "/media/mesto/a7d4deb7-251e-46e3-b60b-31bc36f28a6b/my-works/bet-version/bet-backup/pages/home/account/gamelog.vue",
+            "chunkName": "pages/home/account/gamelog",
+            "_name": "_c366afda"
+          },
+          {
+            "name": "home-account-generalset",
+            "path": "generalset",
+            "component": "/media/mesto/a7d4deb7-251e-46e3-b60b-31bc36f28a6b/my-works/bet-version/bet-backup/pages/home/account/generalset.vue",
+            "chunkName": "pages/home/account/generalset",
+            "_name": "_069f7709"
+          },
+          {
+            "name": "home-account-info",
+            "path": "info",
+            "component": "/media/mesto/a7d4deb7-251e-46e3-b60b-31bc36f28a6b/my-works/bet-version/bet-backup/pages/home/account/info.vue",
+            "chunkName": "pages/home/account/info",
+            "_name": "_55c5bc7d"
+          },
+          {
+            "name": "home-account-loginlog",
+            "path": "loginlog",
+            "component": "/media/mesto/a7d4deb7-251e-46e3-b60b-31bc36f28a6b/my-works/bet-version/bet-backup/pages/home/account/loginlog.vue",
+            "chunkName": "pages/home/account/loginlog",
+            "_name": "_4f54650a"
+          },
+          {
+            "name": "home-account-nextgoals",
+            "path": "nextgoals",
+            "component": "/media/mesto/a7d4deb7-251e-46e3-b60b-31bc36f28a6b/my-works/bet-version/bet-backup/pages/home/account/nextgoals.vue",
+            "chunkName": "pages/home/account/nextgoals",
+            "_name": "_41f2aa24"
+          },
+          {
+            "name": "home-account-paycupons",
+            "path": "paycupons",
+            "component": "/media/mesto/a7d4deb7-251e-46e3-b60b-31bc36f28a6b/my-works/bet-version/bet-backup/pages/home/account/paycupons.vue",
+            "chunkName": "pages/home/account/paycupons",
+            "_name": "_64ea7fdf"
+          },
+          {
+            "name": "home-account-profile",
+            "path": "profile",
+            "component": "/media/mesto/a7d4deb7-251e-46e3-b60b-31bc36f28a6b/my-works/bet-version/bet-backup/pages/home/account/profile.vue",
+            "chunkName": "pages/home/account/profile",
+            "_name": "_0097d7ac"
+          },
+          {
+            "name": "home-account-register",
+            "path": "register",
+            "component": "/media/mesto/a7d4deb7-251e-46e3-b60b-31bc36f28a6b/my-works/bet-version/bet-backup/pages/home/account/register.vue",
+            "chunkName": "pages/home/account/register",
+            "_name": "_4ab19072"
+          },
+          {
+            "name": "home-account-setlimit",
+            "path": "setlimit",
+            "component": "/media/mesto/a7d4deb7-251e-46e3-b60b-31bc36f28a6b/my-works/bet-version/bet-backup/pages/home/account/setlimit.vue",
+            "chunkName": "pages/home/account/setlimit",
+            "_name": "_06791930"
+          },
+          {
+            "name": "home-account-settime",
+            "path": "settime",
+            "component": "/media/mesto/a7d4deb7-251e-46e3-b60b-31bc36f28a6b/my-works/bet-version/bet-backup/pages/home/account/settime.vue",
+            "chunkName": "pages/home/account/settime",
+            "_name": "_27fa34a0"
+          },
+          {
+            "name": "home-account-singelbets",
+            "path": "singelbets",
+            "component": "/media/mesto/a7d4deb7-251e-46e3-b60b-31bc36f28a6b/my-works/bet-version/bet-backup/pages/home/account/singelbets.vue",
+            "chunkName": "pages/home/account/singelbets",
+            "_name": "_c38fe7f2"
+          },
+          {
+            "name": "home-account-soccerinplaymarkets",
+            "path": "soccerinplaymarkets",
+            "component": "/media/mesto/a7d4deb7-251e-46e3-b60b-31bc36f28a6b/my-works/bet-version/bet-backup/pages/home/account/soccerinplaymarkets.vue",
+            "chunkName": "pages/home/account/soccerinplaymarkets",
+            "_name": "_6780dff6"
+          },
+          {
+            "name": "home-account-soccerliverate",
+            "path": "soccerliverate",
+            "component": "/media/mesto/a7d4deb7-251e-46e3-b60b-31bc36f28a6b/my-works/bet-version/bet-backup/pages/home/account/soccerliverate.vue",
+            "chunkName": "pages/home/account/soccerliverate",
+            "_name": "_7ab6d3c4"
+          },
+          {
+            "name": "home-account-soccermarkets",
+            "path": "soccermarkets",
+            "component": "/media/mesto/a7d4deb7-251e-46e3-b60b-31bc36f28a6b/my-works/bet-version/bet-backup/pages/home/account/soccermarkets.vue",
+            "chunkName": "pages/home/account/soccermarkets",
+            "_name": "_92357122"
+          },
+          {
+            "name": "home-account-soccerrate",
+            "path": "soccerrate",
+            "component": "/media/mesto/a7d4deb7-251e-46e3-b60b-31bc36f28a6b/my-works/bet-version/bet-backup/pages/home/account/soccerrate.vue",
+            "chunkName": "pages/home/account/soccerrate",
+            "_name": "_9f370250"
+          },
+          {
+            "name": "home-account-soccerratelimit",
+            "path": "soccerratelimit",
+            "component": "/media/mesto/a7d4deb7-251e-46e3-b60b-31bc36f28a6b/my-works/bet-version/bet-backup/pages/home/account/soccerratelimit.vue",
+            "chunkName": "pages/home/account/soccerratelimit",
+            "_name": "_698f8493"
+          },
+          {
+            "name": "home-account-Users",
+            "path": "Users",
+            "component": "/media/mesto/a7d4deb7-251e-46e3-b60b-31bc36f28a6b/my-works/bet-version/bet-backup/pages/home/account/Users.vue",
+            "chunkName": "pages/home/account/Users",
+            "_name": "_ae3a11ae"
+          },
+          {
+            "name": "home-account-users-id",
+            "path": "users/:id?",
+            "component": "/media/mesto/a7d4deb7-251e-46e3-b60b-31bc36f28a6b/my-works/bet-version/bet-backup/pages/home/account/users/_id.vue",
+            "chunkName": "pages/home/account/users/_id",
+            "_name": "_65f25874"
+          }
+        ],
+        "_name": "_58baa290"
+      },
+      {
+        "name": "home-basketfixture",
+        "path": "basketfixture",
+        "component": "/media/mesto/a7d4deb7-251e-46e3-b60b-31bc36f28a6b/my-works/bet-version/bet-backup/pages/home/basketfixture.vue",
+        "chunkName": "pages/home/basketfixture",
+        "_name": "_7cc2a2b4"
+      },
+      {
+        "name": "home-basketinplay",
+        "path": "basketinplay",
+        "component": "/media/mesto/a7d4deb7-251e-46e3-b60b-31bc36f28a6b/my-works/bet-version/bet-backup/pages/home/basketinplay.vue",
+        "chunkName": "pages/home/basketinplay",
+        "_name": "_4cc308cc"
+      },
+      {
+        "name": "home-soccerfixture",
+        "path": "soccerfixture",
+        "component": "/media/mesto/a7d4deb7-251e-46e3-b60b-31bc36f28a6b/my-works/bet-version/bet-backup/pages/home/soccerfixture.vue",
+        "chunkName": "pages/home/soccerfixture",
+        "_name": "_924f59ba"
+      },
+      {
+        "name": "home-soccerinplay",
+        "path": "soccerinplay",
+        "component": "/media/mesto/a7d4deb7-251e-46e3-b60b-31bc36f28a6b/my-works/bet-version/bet-backup/pages/home/soccerinplay.vue",
+        "chunkName": "pages/home/soccerinplay",
+        "_name": "_75b460af"
+      }
+    ],
+    "_name": "_434f1472"
+  },
+  {
+    "name": "resetpass",
+    "path": "/resetpass",
+    "component": "/media/mesto/a7d4deb7-251e-46e3-b60b-31bc36f28a6b/my-works/bet-version/bet-backup/pages/resetpass.vue",
+    "chunkName": "pages/resetpass",
+    "_name": "_1a5cb646"
+  },
+  {
+    "name": "welcome",
+    "path": "/welcome",
+    "component": "/media/mesto/a7d4deb7-251e-46e3-b60b-31bc36f28a6b/my-works/bet-version/bet-backup/pages/welcome.vue",
+    "chunkName": "pages/welcome",
+    "_name": "_0f837ac2"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/media/mesto/a7d4deb7-251e-46e3-b60b-31bc36f28a6b/my-works/bet-version/bet-backup/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_7ad0bd4f"
+  }
+]
